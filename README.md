@@ -20,7 +20,7 @@ Bu proje, macOS’ta çalışmayan **Valgrind** için bir Docker çözümü suna
    ./naz.sh
    ```
 
-⚠️ Dikkat: bash çalıştıktan sonra terminali kapatıp tekardan açman gerekiyor. (zsh ayarlarının güncellenmesi için)
+⚠️ Dikkat: bash çalıştıktan sonra terminali kapatıp tekrardan açman gerekir. (zsh ayarlarının güncellenmesi için)
 
 ## 🛠 Kullanım
 Artık terminalde sadece şunu yaz:
