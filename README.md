@@ -1,4 +1,4 @@
-# macOS için Valgrind Çözümü 🐧🍏
+# macOS için Valgrind Çözümü
 
 Bu proje, macOS’ta çalışmayan **Valgrind** için bir Docker çözümü sunar.  
 `naz.sh` betiğini çalıştırarak kurulumu yapabilir ve sadece `naz` yazarak Valgrind’i kullanmaya başlayabilirsin. 🚀  
