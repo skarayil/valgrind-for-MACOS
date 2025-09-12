@@ -10,7 +10,7 @@ Bu proje, macOS’ta çalışmayan **Valgrind** için bir Docker çözümü suna
 
 2. Projeyi indir ve klasöre gir:
    ```bash
-   git clone [<repo-url>](https://github.com/skarayil/valgrind-for-MACOS/)
+   git clone https://github.com/skarayil/valgrind-for-MACOS/
    cd valgrind-for-MACOS
    ```
 
