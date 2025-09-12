@@ -1,7 +1,7 @@
 #!/bin/bash
 
 IMAGE_NAME="valgrind:naz"
-ALIAS_LINE="alias naz='docker run -it -v \$PWD:/tmp -w /tmp --rm ${IMAGE_NAME}'"
+ALIAS_LINE="alias naz='docker run -it -v \$PWD:/naz -w /naz --rm ${IMAGE_NAME}'"
 
 echo "[*] Docker imajı build ediliyor..."
 docker build -t ${IMAGE_NAME} .
