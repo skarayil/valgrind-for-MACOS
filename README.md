@@ -26,7 +26,9 @@ Artık terminalde sadece şunu yaz:
 naz
 ```
 
-Container içine girdikten sonra Valgrind’i çalıştır:
+⚠️ Dikkat: bash çalıştıktan sonra terminali kapatıp tekardan açman gerekiyor. (zsh ayarlarının güncellenmesi için)
+
+`naz` komutunu çalıştırıp container içine girdikten sonra projeni derle ve Valgrind’i çalıştır:
 ```bash
 valgrind ./derleme-dosyasi
 ```
